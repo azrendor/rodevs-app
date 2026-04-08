@@ -1,3 +1,6 @@
+# For the application reviewer
+I'm applying to the intermediate role with the code thats on Pathway (Classes & Skills), WeaponsService.lua has been approved for the Beginner Role, they're services from the same game.
+
 # Demonstration
 https://www.youtube.com/watch?v=OQ176ftErBQ
 
